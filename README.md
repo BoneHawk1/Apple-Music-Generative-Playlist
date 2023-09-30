@@ -1,7 +1,7 @@
 # Apple-Music-Generative-Playlist
 This is a shortcut I designed to use generative AI to automatically generative an Apple Music Playlist. 
 
-Get it here: https://www.icloud.com/shortcuts/e83989456f3d436392dc25b438269c22
+Get it here: <a href=https://www.icloud.com/shortcuts/e83989456f3d436392dc25b438269c22>
 
 ## Features 
 - Generate a playlist on any mood, emotion, style, or simlar artist!
